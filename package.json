@@ -9,7 +9,7 @@
         "email": "florian.maillard@viacesi.fr"
     },
     "dependencies": {
-        "com.unity.shadergraph": "*"
+        "com.unity.shadergraph": "11.0.0"
     },
     "type": "tool"
 }
